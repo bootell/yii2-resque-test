@@ -1,0 +1,16 @@
+{
+    "name": "bootell/yii2-resque",
+    "description": "Yii2 Resque",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bootell",
+            "email": "bootell@outlook.com"
+        }
+    ],
+    "require": {
+        "chrisboulton/php-resque": "1.2.x",
+    },
+}
